@@ -1,0 +1,5 @@
+
+[STAGING_SERVERS]
+vm1 ansible_host=51.250.6.73
+# vm1 ansible_host=62.84.117.209
+
